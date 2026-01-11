@@ -1,7 +1,6 @@
 # Comparative OCR Error Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leake1617/comparative-OCR-error-analysis/blob/main/OCR_Analysis.ipynb)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
 
 This repository presents a comparative framework for analyzing and evaluating **Optical Character Recognition (OCR)** error patterns across multiple systems. The project focuses on understanding recognition errors using standard evaluation metrics to support performance comparison and improvement.
