@@ -5,16 +5,16 @@
 
 This repository presents a comparative framework for analyzing and evaluating **Optical Character Recognition (OCR)** error patterns across multiple systems. The project focuses on understanding recognition errors using standard evaluation metrics to support performance comparison and improvement.
 
-## 📖 Overview
+##  Overview
 OCR systems often exhibit varying error behaviors depending on data quality, scripts (such as Ethiopic/Ge'ez), and underlying models. This project provides tools and datasets to systematically analyze OCR outputs and compare systems based on their specific error characteristics.
 
-## ✨ Key Features
+##  Key Features
 * **Multi-System Evaluation:** Comparative analysis of different OCR engines.
 * **Standardized Metrics:** Calculation of **CER** (Character Error Rate) and **WER** (Word Error Rate).
 * **Confusion Analysis:** Tools to identify specific character-level confusion patterns (e.g., which characters are most frequently misidentified).
 * **Reproducible Pipeline:** Clean, modular code designed to run in Google Colab for easy replication of results.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Run via Google Colab
 The easiest way to explore this analysis is through Google Colab. 
